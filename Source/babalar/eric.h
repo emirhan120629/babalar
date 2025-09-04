@@ -66,7 +66,7 @@ public:
 		BlueprintReadWrite, Category = ''Character |
 		Appearance'')
 	FLinearColor SkinColor =
-	FLinearColor(0.1f, 0.1f, 0.1f, 1.0f);
+	FLinearColor(0.1f, 0.1f, 0.1f, 1.0f); 
 
 
 
