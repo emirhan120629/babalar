@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "babalar",
+			"Path": "..\\Source\\babalar.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "babalarEditor",
+			"Path": "..\\Source\\babalarEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
